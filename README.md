@@ -1,16 +1,18 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Zahraa Al Hayyawi
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a sophomore pursuing my B.S. in Cybersecurity.
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Linux]
+![Git]
+![PowerShell]
+![Python]
+![Java]
+![C++]
+![Excel]
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://github.com/ZRoot7)
+[![LinkedIn]([www.linkedin.com/in/zahraa-alhayyawi-37358b433](https://www.linkedin.com/in/zahraa-alhayyawi-37358b433))
 
-_"Your sample quote here!"_
+"The quieter you become, the more you are able to hear. " - Ram Dass
